@@ -1,5 +1,7 @@
-# cartpole-too-simple
+# cartpole-baseline
 
-This is my README
+Like many I thought to stufy DQN etc.
 
-Read this and enjoy your life
+It turned out CartPole is too simple a problem since a working HI (Humean Intelligence) formula is quite easy.
+
+Can be used as a baseline for some AI solution.
