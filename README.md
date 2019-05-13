@@ -1,6 +1,6 @@
-# cartpole-baseline
+# CartPole simple solution
 
-Like many I thought to stufy DQN etc.
+Like many I thought to study DQN etc.
 
 It turned out CartPole is too simple a problem since a working HI (Humean Intelligence) formula is quite easy.
 
